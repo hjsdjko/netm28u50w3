@@ -1,0 +1,13 @@
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\bin\Debug\netcoreapp2.1\netcoreapp2.1\Xiezn.Core.deps.json
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\bin\Debug\netcoreapp2.1\netcoreapp2.1\Xiezn.Core.runtimeconfig.json
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\bin\Debug\netcoreapp2.1\netcoreapp2.1\Xiezn.Core.runtimeconfig.dev.json
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\bin\Debug\netcoreapp2.1\netcoreapp2.1\Xiezn.Core.dll
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\bin\Debug\netcoreapp2.1\netcoreapp2.1\Xiezn.Core.pdb
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.csproj.CoreCompileInputs.cache
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.RazorAssemblyInfo.cache
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.RazorAssemblyInfo.cs
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.AssemblyInfoInputs.cache
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.AssemblyInfo.cs
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.RazorTargetAssemblyInfo.cache
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.dll
+C:\Users\25211\Desktop\net-schema\Xiezn.Core\obj\Debug\netcoreapp2.1\Xiezn.Core.pdb
